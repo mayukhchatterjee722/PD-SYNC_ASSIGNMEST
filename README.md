@@ -32,7 +32,7 @@ Invalid mapping paths (handled safely with optional chaining)
 API errors (handled separately for response vs network issues)
 
 6. Iterating and improving
-After getting the basic flow working, I:
+After getting the basic flow working, I
 Cleaned up the structure
 Split code into modules
 Improved error handling
